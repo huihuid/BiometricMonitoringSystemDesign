@@ -329,7 +329,7 @@ const CharterPage = () => (
           </div>
           <h2 className="text-3xl font-bold text-gray-800 mb-2">Team VitaSync</h2>
           <p className="text-xl text-gray-600 italic">Monitoring Life, Enhancing Reality</p>
-          <p className="text-sm text-gray-500 mt-2">Established September 2024</p>
+          <p className="text-sm text-gray-500 mt-2">Established September 2025</p>
         </div>
       </div>
     </section>
